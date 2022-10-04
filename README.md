@@ -1,2 +1,2 @@
-# Levitating_PingPongBall-PID
-Bu projede, bir pinpon topu boru içerisinde belirlenen iki adet referans noktasına sırasıyla uçurulmakta ve seviye kontrolü yapılmaktadır. Mesafe sensöründen alınan veri Arduino içerisinde işlenmekte ve PID yazılımı ile ihtiyaç duyulan PWM sinyali üretilmektedir. Üretilen PWM sinyali, hazırlanan güç katmanı ile beslenen kontrol devresi aracılığıyla fana gönderilerek konum kontrolü sağlanmaktadır.
+# The Project Summary
+In this position control project, a ping pong ball is levitated respectively to two reference points determined in the pipe with the air that the turbofan provided. The data received from the distance sensor is processed in Arduino MEGA and the required PWM signal is produced with the PID control algorithm. Position control is provided by sending the generated PWM signal to the fan via the control circuit unit.
