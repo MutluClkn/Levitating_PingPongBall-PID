@@ -1,0 +1,2 @@
+# Levitating_PingPongBall-PID
+Bu projede, bir pinpon topu boru içerisinde belirlenen iki adet referans noktasına sırasıyla uçurulmakta ve seviye kontrolü yapılmaktadır. Mesafe sensöründen alınan veri Arduino içerisinde işlenmekte ve PID yazılımı ile ihtiyaç duyulan PWM sinyali üretilmektedir. Üretilen PWM sinyali, hazırlanan güç katmanı ile beslenen kontrol devresi aracılığıyla fana gönderilerek konum kontrolü sağlanmaktadır.
